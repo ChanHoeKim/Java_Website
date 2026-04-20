@@ -8,6 +8,8 @@ https://docs.google.com/document/d/1xoAS3u7-kuaBvp5TV8JcI_zjfVXGyAoJ/edit?usp=dr
 
 ---
 
+![웹사이트 썸네일.png](attachment:b36640f3-f4bb-4428-85ff-3c1c52448eb8:웹사이트_썸네일.png)
+
 ## 1. 프로젝트 개요
 
 - **기간**: 2022.11.08 ~ 2022.12.12
