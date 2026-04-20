@@ -1,11 +1,9 @@
-*별첨
+## 별첨
 
 - 발표 자료 :
-
 https://docs.google.com/presentation/d/113H8bMFCK-eyZy9Xkkg-2F5YXFxcTPZp/edit?usp=drive_link&ouid=109009094223591979016&rtpof=true&sd=true
 
 - 핵심기술소개서 :
-
 https://docs.google.com/document/d/1xoAS3u7-kuaBvp5TV8JcI_zjfVXGyAoJ/edit?usp=drive_link&ouid=109009094223591979016&rtpof=true&sd=true
 
 ---
